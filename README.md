@@ -1,4 +1,4 @@
 # AyED 
-Nombre: Fabricio Emanuel Lassaque /
+Nombre: Fabricio Lassaque /
 Curso: K1102 /
 Usuario: FabriLsq
