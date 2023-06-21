@@ -1,3 +1,3 @@
 Nombre: Fabricio Lassaque / Curso: K1102 / Usuario: FabriLsq
 
-Explicación de la resolución: Al ver que se alternaba siempre los signos se me ocurrió poner un if/else donde comparo el resto de la división (Considerando como 1° elemento al "-1/3"). Después la cantidad de iteración las fui aumentando manualmente hasta llegar a las cifras deseadas del numero Pi. 
+Reentrega del TP1.
